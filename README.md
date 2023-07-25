@@ -1,2 +1,2 @@
 # Car-Price-Pridiction
- Use ml algo like linear regression and random forest
+ Used ml algo like linear regression and random forest
