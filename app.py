@@ -394,6 +394,6 @@ if predict:
         if pred < 0:
             st.error('The input values must be irrelevant, try again by giving relevent information.')
         pred = round(float(pred),3)
-        pred = pred*85
+        pred = pred
         write = 'The predicted price of the car is Rupees '+ str(pred)
         st.success(write)
